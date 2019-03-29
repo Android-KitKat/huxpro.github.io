@@ -18,6 +18,26 @@
     </a>
   </li>
   {% endif %}
+  {% if site.email %}
+  <li>
+      <a href="Mailto:{{ site.email }}?Subject=来自博客:&nbsp;">
+          <span class="fa-stack fa-lg">
+              <i class="fa fa-circle fa-stack-2x"></i>
+              <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+          </span>
+      </a>
+  </li>
+  {% endif %}
+  {% if site.steam_username %}
+  <li>
+      <a target="_blank" href="https://steamcommunity.com/id/{{ site.steam_username }}">
+          <span class="fa-stack fa-lg">
+              <i class="fa fa-circle fa-stack-2x"></i>
+              <i class="fa fa-steam fa-stack-1x fa-inverse"></i>
+          </span>
+      </a>
+  </li>
+  {% endif %}
   {% if site.twitter_username %}
   <li>
     <a href="https://twitter.com/{{ site.twitter_username }}">
@@ -76,6 +96,16 @@
         <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
       </span>
     </a>
+  </li>
+  {% endif %}
+  {% if site.sketchfab_username %}
+  <li>
+      <a target="_blank" href="https://sketchfab.com/{{ site.sketchfab_username }}">
+          <span class="fa-stack fa-lg">
+              <i class="fa fa-circle fa-stack-2x"></i>
+              <i class="fa fa-cube fa-stack-1x fa-inverse"></i>
+          </span>
+      </a>
   </li>
   {% endif %}
 </ul>

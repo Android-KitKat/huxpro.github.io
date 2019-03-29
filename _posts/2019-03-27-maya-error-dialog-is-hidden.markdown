@@ -75,9 +75,9 @@ Maya大部分功能正常，但退出软件询问是否保存时，报错崩溃�
 
 首先**以管理员权限**打开命令提示符，运行命令启用内置管理员用户
 
-{% highlight bash %}
+```
 NET USER Administrator /ACTIVE:YES
-{% endhighlight %}
+```
 
 提示`命令成功完成`。
 
@@ -115,9 +115,9 @@ NET USER Administrator /ACTIVE:YES
 
 再次**以管理员权限**打开命令提示符，运行命令禁用内置管理员用户
 
-{% highlight bash %}
+```
 NET USER Administrator /ACTIVE:NO
-{% endhighlight %}
+```
 
 
 

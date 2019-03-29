@@ -1,11 +1,11 @@
 # Site settings
-title: Hux Blog
-SEOTitle: 黄玄的博客 | Hux Blog
-header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: "关于程序与设计、黑客与画家 | 黄玄，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
-url: "https://huangxuan.me"              # your host, for absolute URL
+title: Android Blog
+SEOTitle: Android的博客 | Android Blog
+header-img: img/home-bg-o.jpg
+email: Android99@outlook.com
+description: "HelloWorld!"
+keyword: "Android, 安卓, 安卓的博客, Android Blog, 博客, 个人网站, 互联网, 游戏"
+url: "https://www.android99.me"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,12 +13,14 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-twitter_username:   huxpro
+#weibo_username:     1695436163
+#zhihu_username:     huxpro
+github_username:    Android-KitKat
+#twitter_username:   huxpro
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
+steam_username:     Android_KitKat
+sketchfab_username: Android_KitKat
 
 
 
@@ -38,7 +40,7 @@ anchorjs: true                          # if you want to customize anchor. check
 # from PR#40, to support local preview for Jekyll 3.0
 # make sure you have this gem installed
 # `$ gem install jekyll-paginate`
-plugins: [jekyll-paginate]
+plugins: [jekyll-paginate, jekyll-sitemap]
 
 
 
@@ -59,7 +61,8 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+disqus_username: android-kitkat
+disqus_api: "https://disqus.android99.net"
 
 # Netease settings
 netease_comment: false
@@ -71,14 +74,14 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_track_id: 'UA-102891490-1'            # Format: UA-xxxxxx-xx
+ga_domain: android99.me
 
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "For the next quantum leap<br>离开世界之前，一切都是过程"
+sidebar-about-description: "HelloWorld!"
 sidebar-avatar: /img/avatar-android.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -103,37 +106,10 @@ page-mathjax: false
 # Friends
 friends: [
     {
-    #     title: "Su",
-    #     href: "http://su.gallery/"
-    # },{
-        title: "乱序",
-        href: "http://mida.re/"
+        title: "寒兮的小黑屋",
+        href: "https://www.ixnah.com"
     },{
-        title: "前端外刊评论",
-        href: "http://qianduan.guru/"
-    },{
-        title: "天镶的博客",
-        href: "http://lingyu.wang/"
-    },{
-        title: "Luke 的自留地",
-        href: "http://hmqk1995.github.io"
-    },{
-        title: "Ebn's Blog",
-        href: "http://ebnbin.com/"
-    },{
-        title: "SmdCn's Blog",
-        href: "http://blog.smdcn.net"
-    },{
-        title: "David's Game",
-        href: "https://www.ruoyaowu.com/"
-    },{
-        title: "DHong Say",
-        href: "http://dhong.co"
-    },{
-        title: "尹峰以为",
-        href: "http://ingf.github.io/"
-    },{
-        title: "解旻的博客",
-        href: "http://xieminis.me/"
+        title: "蓝心冰川",
+        href: "https://www.moeinn.net"
     }
 ]

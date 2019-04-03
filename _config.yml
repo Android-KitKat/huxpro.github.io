@@ -106,10 +106,10 @@ page-mathjax: false
 # Friends
 friends: [
     {
-        title: "寒兮的小黑屋",
-        href: "https://www.ixnah.com"
-    },{
         title: "蓝心冰川",
         href: "https://www.IceCreamQAQ.com"
+    },{
+        title: "寒兮的小黑屋",
+        href: "https://www.ixnah.com"
     }
 ]

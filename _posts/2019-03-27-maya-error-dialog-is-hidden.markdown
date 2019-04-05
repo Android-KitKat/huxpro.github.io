@@ -125,9 +125,9 @@ NET USER Administrator /ACTIVE:NO
 
 ## 释放用户配置占用的空间
 
-由于修改用户目录的过程中，我们登陆了`Administrator`账户，所以会产生相关的用户配置文件。
+由于修改用户目录的过程中，我们登陆了`Administrator`用户，所以会产生相关的用户配置文件。
 
-如果你以后不再需要登陆`Administrator`账户，可以删除用户配置文件来节省空间。
+如果你以后不再需要登陆`Administrator`用户，可以删除用户配置文件来节省空间。
 
 
 

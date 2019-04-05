@@ -2,7 +2,7 @@
 layout:     post
 title:      "宝藏世界模组开发指南——索引"
 subtitle:   "宝藏世界模组开发指南"
-date:       2017-07-15 20:16:46
+date:       2017-07-15 20:16:00
 author:     "Android"
 header-img: "img/post-bg-2015.jpg"
 header-mask:  0.3

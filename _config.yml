@@ -3,8 +3,8 @@ title: Android Blog
 SEOTitle: Android的博客 | Android Blog
 header-img: img/home-bg-o.jpg
 email: Android99@outlook.com
-description: "HelloWorld!"
-keyword: "Android, 安卓, 安卓的博客, Android Blog, 博客, 个人网站, 互联网, 游戏"
+description: "关于游戏制作、建模、编程、日常或是一些其他内容 | Android, Gamer, Indie Game Developer | 这里是 @Android 的个人博客。"
+keyword: "Android, 安卓, 安卓的博客, Android Blog, 博客, 个人网站, 互联网, 游戏, 建模, 编程"
 url: "https://www.android99.me"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 

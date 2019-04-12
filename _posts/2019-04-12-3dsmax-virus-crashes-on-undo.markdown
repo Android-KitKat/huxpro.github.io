@@ -55,7 +55,7 @@ tags:
 
 Autodesk官方接到反馈后，制作了杀毒脚本。
 
-官方论坛：[关于最近出现的病毒，临时解决方案。](https://forums.autodesk.com/t5/maya-3ds-max-zong-he-tao-lun-qu/guan-yu-zui-jin-chu-xian-de-bing-du-lin-shi-jie-jue-fang-an/td-p/7297624)
+官方论坛：[关于最近出现的病毒，临时解决方案。][官方论坛]
 
 下载[ALC_CRP_fixup.zip](/assets/in-post/post-3dsmax-virus-crashes-on-undo/ALC_CRP_fixup.zip)，解压`ALC_fixup.ms`和`CRP_fixup.ms`到`<3ds Max安装目录>\scripts\Startup`文件夹下。
 
@@ -74,3 +74,5 @@ Autodesk官方接到反馈后，制作了杀毒脚本。
 **不过注意，这只是暂时从内存中清除了病毒。原文件依然被感染了病毒，需要再次`保存`或者`另存为`。**
 
 也小心不要把感染病毒的场景文件发给别人，毕竟这个病毒脚本实在太丧心病狂了。
+
+[官方论坛]: https://forums.autodesk.com/t5/maya-3ds-max-zong-he-tao-lun-qu/guan-yu-zui-jin-chu-xian-de-bing-du-lin-shi-jie-jue-fang-an/td-p/7297624 "关于最近出现的病毒，临时解决方案。"
